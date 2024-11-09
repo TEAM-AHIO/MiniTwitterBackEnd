@@ -11,4 +11,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MiniTwitterApp.Application\MiniTwitterApp.Application.csproj" />
+    <ProjectReference Include="..\MiniTwitterApp.Common\MiniTwitterApp.Common.csproj" />
+  </ItemGroup>
+
 </Project>

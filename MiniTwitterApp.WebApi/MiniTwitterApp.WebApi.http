@@ -1,0 +1,6 @@
+@MiniTwitterApp.WebApi_HostAddress = http://localhost:5201
+
+GET {{MiniTwitterApp.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
