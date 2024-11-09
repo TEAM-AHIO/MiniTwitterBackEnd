@@ -9,7 +9,7 @@ MiniTwitterApp’in amacı, Twitter benzeri bir sosyal medya platformu oluşturm
 - **Kullanıcı Yönetimi:** Kullanıcı kaydı, giriş işlemleri, profil görüntüleme ve güncelleme.
 - **Post Yönetimi:** Post oluşturma, düzenleme, silme, beğenme ve repost özellikleri.
 - **Takip Sistemi:** Kullanıcıların birbirini takip edebilmesi ve akışlarını bu ilişkiler doğrultusunda görebilmesi.
-- **Etkileşimler:** Post beğenme ve repost yapma gibi sosyal medya etkileşimleri.
+- **Etkileşimler:** Post beğenme, kaydetme ve repost yapma gibi sosyal medya etkileşimleri.
 
 ## Kullanılan Teknolojiler
 
