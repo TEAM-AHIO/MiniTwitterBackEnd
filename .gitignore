@@ -1,2 +1,4 @@
-MiniTwitterBackEnd/bin/
-MiniTwitterBackEnd/obj/
+bin/
+obj/
+
+.vscode
